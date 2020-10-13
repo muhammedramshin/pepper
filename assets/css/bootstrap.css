@@ -5212,6 +5212,11 @@ a.thumbnail.active {
 }
 .media-object {
   display: block;
+  
+}
+.sze{
+  max-width: 200px;
+  max-height: 150px;
 }
 .media-object.img-thumbnail {
   max-width: none;

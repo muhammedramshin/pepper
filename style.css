@@ -2425,3 +2425,8 @@ RESERVATION SECTION
     border-right: none;
   }
 }
+
+.sze{
+  max-width: 200px;
+  max-height: 150px;
+}
