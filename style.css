@@ -2254,7 +2254,13 @@ RESERVATION SECTION
   #mu-subscription .mu-subscription-area .mu-subscription-form .mu-readmore-btn {
     width: auto;
     max-width: 150px;
-    font-size: 18px;
+    background-color: #fff;
+    OPACITY: .9;
+    font-family: "Open Sans", sans-serif;
+    display: inline-block;
+    font-size: 16px;
+    padding: 15px 24px;
+    position: relative;
   }
 
   #mu-gallery .mu-gallery-area .mu-gallery-content .mu-gallery-body .mu-single-gallery {
