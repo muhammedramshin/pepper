@@ -204,6 +204,7 @@ img {
   transition: all 0.5s;
 }
 .mu-main-navbar .navbar-header .navbar-brand img {
+  margin-left: 5px;
   width: 100%;
   height: 100%;
 }
