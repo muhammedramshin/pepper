@@ -83,6 +83,7 @@ img {
   font-size: 16px;
   padding: 15px 35px;
   position: relative;
+  margin-left: 10px;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
   -ms-transition: all 0.5s;
