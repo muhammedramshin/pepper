@@ -2262,6 +2262,7 @@ RESERVATION SECTION
     font-size: 16px;
     padding: 15px 24px;
     position: relative;
+    margin-top: 32px;
   }
 
   #mu-gallery .mu-gallery-area .mu-gallery-content .mu-gallery-body .mu-single-gallery {
