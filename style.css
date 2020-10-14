@@ -36,6 +36,7 @@ body {
   color: #333333;
   font-size: 15px;
   overflow-x: hidden;
+ 
 }
 
 .no-padding {
@@ -2163,6 +2164,7 @@ RESERVATION SECTION
 
   #mu-subscription .mu-subscription-area .mu-subscription-form .mu-readmore-btn {
     width: 30%;
+    padding: 10px;
   }
 
   #mu-chef .mu-chef-area .mu-chef-content .mu-chef-nav .slick-list li .mu-single-chef .mu-single-chef-social a {
@@ -2199,9 +2201,28 @@ RESERVATION SECTION
   }
 
   #mu-slider .mu-slider-area .mu-top-slider .mu-top-slider-single .mu-top-slider-content {
-    display: none;
+    display: block;
+   
+  }
+  #mu-slider .mu-slider-area .mu-top-slider .mu-top-slider-single .mu-top-slider-content p {
+    color: #fff;
+    font-size: 12px;
+    margin-bottom: 10px;
+    margin-top: 2PX;
+    padding: 0 10px;
   }
 
+  #mu-slider .mu-slider-area .mu-top-slider .mu-top-slider-single .mu-top-slider-content .mu-slider-small-title {
+    font-family: "Tangerine", cursive;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 20px;
+  }
+  #mu-slider .mu-slider-area .mu-top-slider .mu-top-slider-single .mu-top-slider-content .mu-slider-title {
+    font-size: 20px;
+    line-height: 35px;
+    
+  }
   #mu-slider .mu-slider-area .mu-top-slider .slick-prev, #mu-slider .mu-slider-area .mu-top-slider .slick-next {
     opacity: 0;
   }
@@ -2231,6 +2252,8 @@ RESERVATION SECTION
 
   #mu-subscription .mu-subscription-area .mu-subscription-form .mu-readmore-btn {
     width: auto;
+    max-width: 150px;
+    font-size: 18px;
   }
 
   #mu-gallery .mu-gallery-area .mu-gallery-content .mu-gallery-body .mu-single-gallery {
